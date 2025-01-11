@@ -1,9 +1,7 @@
 ---
-name: Evil Kevin
+name: TBD
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
+email: TBD
 photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
