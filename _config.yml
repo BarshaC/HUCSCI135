@@ -27,6 +27,7 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+# Add the links for the other resources if needed
 aux_links:
   Kevin Lin:
     - 'https://kevinl.info'
